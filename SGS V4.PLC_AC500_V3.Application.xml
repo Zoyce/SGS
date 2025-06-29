@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Symbolconfiguration xmlns="http://www.3s-software.com/schemas/Symbolconfiguration.xsd">
+  <Header>
+    <Version>3.5.14.0</Version>
+    <SymbolConfigObject version="4.4.0.0" runtimeid="3.5.19.20" libversion="4.4.0.0" compiler="3.5.19.40" lmm="3.5.19.40" profile="Automation Builder 2.7+" settings="SupportOPCUA, LayoutCalculator=OptimizedClientSideLayoutCalculator" />
+    <ProjectInfo name="SGS V4" devicename="PLC_AC500_V3" appname="Application" />
+  </Header>
+  <TypeList />
+</Symbolconfiguration>
