@@ -1,0 +1,16 @@
+# Automation Builder: temporäre und generierte Dateien ignorieren
+
+*.lock
+*.log
+*.tmc
+*.bak
+
+# Verzeichnisse ignorieren
+.build/
+.settings/
+Output/
+Temp/
+
+# Sonstiges
+*.compiled
+~$*            # temporäre Office-Dateien
